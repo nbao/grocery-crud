@@ -1,8 +1,8 @@
 <?php  
 /* Translated by: @Vuong */
-	$lang['list_add'] 				= 'Thêm';
+	$lang['list_add'] 			= 'Thêm';
 	$lang['list_actions'] 			= 'Tác vụ';
-	$lang['list_page'] 				= 'Trang';	
+	$lang['list_page'] 			= 'Trang';	
 	$lang['list_paging_of'] 		= 'tổng';
 	$lang['list_displaying']		= 'Hiện thị từ {start} tới {end} trong tổng số {results}';
 	$lang['list_filtered_from']		= '(lọc từ tổng số {total_results} bản ghi)';
@@ -50,30 +50,30 @@
 	$lang['update_error']			= 'Có lỗi khi thay đổi dữ liệu.';
 	
 	/* Added in version 1.2.1 */
-	$lang['set_relation_title']		= 'Select {field_display_as}';	
-	$lang['list_record']			= 'Record';
-	$lang['form_inactive']			= 'inactive';
-	$lang['form_active']			= 'active';
+	$lang['set_relation_title']		= 'Chọn {field_display_as}';	
+	$lang['list_record']			= 'Mẫu tin';
+	$lang['form_inactive']			= 'tắt';
+	$lang['form_active']			= 'bật';
 	
 	/* Added in version 1.2.2 */
-	$lang['form_save_and_go_back']	= 'Save and go back to list';
-	$lang['form_update_and_go_back']= 'Update and go back to list';
+	$lang['form_save_and_go_back']	= 'Lưu và quay lại danh sách';
+	$lang['form_update_and_go_back']= 'Cập nhậtvà quay lại danh sách';
 
 	/* Upload functionality */
-	$lang['string_delete_file'] 	= "Deleting file";
-	$lang['string_progress'] 		= "Progress: ";
-	$lang['error_on_uploading'] 	= "An error has occurred on uploading.";
-	$lang['message_prompt_delete_file'] 	= "Are you sure that you want to delete this file?";
+	$lang['string_delete_file'] 	= "Đang xóa tập tin";
+	$lang['string_progress'] 		= "Đang tiến hành: ";
+	$lang['error_on_uploading'] 	= "Có lỗi khi tải lên.";
+	$lang['message_prompt_delete_file'] 	= "Bạn có chắc là xóa tập tin này không?";
 	
-	$lang['error_max_number_of_files'] 	= "You can only upload one file each time.";
-	$lang['error_accept_file_types'] 	= "You are not allow to upload this kind of extension.";
-	$lang['error_max_file_size'] 		= "The uploaded file exceeds the {max_file_size} directive that was specified.";
-	$lang['error_min_file_size'] 		= "You cannot upload an empty file.";
+	$lang['error_max_number_of_files'] 	= "Bạn chỉ có thể đưa tập tin lên mỗi lần.";
+	$lang['error_accept_file_types'] 	= "Bạn không được phép tải lên kiểu tập tin với phần mở rộng này.";
+	$lang['error_max_file_size'] 		= "Dung lượng tối đa {max_file_size} cho tập tin đưa lên.";
+	$lang['error_min_file_size'] 		= "Bạn không thể đưa lên tập tin rỗng.";
 
 	/* Added in version 1.3.1 */
-	$lang['list_export'] 	= "Export";
-	$lang['list_print'] 	= "Print";
-	$lang['minimize_maximize'] = 'Minimize/Maximize';
+	$lang['list_export'] 	= "Xuất dữ liệu";
+	$lang['list_print'] 	= "In";
+	$lang['minimize_maximize'] = 'Phóng to/nhỏ';
 
 	/* Added in version 1.4 */
-	$lang['list_view'] = 'View';
+	$lang['list_view'] = 'Xem';	
